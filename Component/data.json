@@ -1,0 +1,202 @@
+
+[
+    {
+        "name": "HP Elite Computer C2D 3.0 New 4GB",
+        "resaleprice": "300",
+        "originalPrice": "600",
+        "yearofUsed": "2",
+        "category": "Computer",
+        "images":[{ "img1":"https://i.ibb.co/dQ3PX9M/ck0589d-01-500x500.webp"},
+               {"img2":"https://i.ibb.co/XCtNzQ9/v19-03-500x500.jpg"},
+                { "img3":"https://i.ibb.co/MZR0c6B/m24fd-01-500x500.webp"},
+                 {"img4":"https://i.ibb.co/m6gzVSC/e23-g4-001-500x500.jpg"}
+        ],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/pzFqdWx/elec-16-2.jpg"
+    },
+    
+    {
+        "name": "Corn Hole Game Colors to Choose",
+        "resaleprice": "200",
+        "originalPrice": "400",
+        "yearofUsed": "2",
+        "category": "cosmetics",
+        "images":[{
+            "img1":"https://i.ibb.co/PFnf5Tz/himalaya-fach-wash-purifying-neem-150ml-jpg-570x570.jpg",
+            "img2":"https://i.ibb.co/WyCHKJ3/LILAC-Brightening-Face-Wash-Oily-And-Combination-Skin-190502-570x570.jpg",
+            "img3":"https://i.ibb.co/n1QLywr/Lilac-Advanced-Brightening-Face-Wash-Dry-And-Sensitive-Skin-570x570.jpg",
+            "img4":"https://i.ibb.co/SKRK0Kd/Rajkonna-Acne-Fighting-Facial-Wash-1-570x570.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/4NkwVwf/40.jpg"
+    },
+    
+    {
+        "name": "Makeup Pouch Travel Hanging",
+        "resaleprice": "100",
+        "originalPrice": "350",
+        "yearofUsed": "2",
+        "category": "clothes",
+        "images":[{
+            "img1":"https://i.ibb.co/0tHNKTD/e0a063d3bf44d508aba30e3f3a8532ad-300x400.jpg",
+            "img2":"https://i.ibb.co/Yj5ZRtv/6de0b2b29df45d1be220a3c07ebf6e1a-300x400.jpg",
+            "img3":"https://i.ibb.co/RcyC6NJ/33a3417ec7865629c0ac8de0c3c1ca13-300x400.jpg",
+            "img4":"https://i.ibb.co/LvMspW8/1b508ea2a2f174d06e6ecd132cbdd16b-300x400.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/MgnwNfh/fas-7.jpg"
+    },
+    
+    {
+        "name": "The Wonder and Science of Sound",
+        "resaleprice": "59",
+        "originalPrice": "100",
+        "yearofUsed": "2",
+        "category": "Computer",
+        "images":[{
+            "img1":"https://i.ibb.co/mNBtXmS/1485438089.jpg",
+            "img2":"https://i.ibb.co/16JtX9Z/1490795753.jpg",
+            "img3":"https://i.ibb.co/xH7vv7f/1490796097.jpg",
+            "img4":"https://i.ibb.co/tQN06LK/1492432920.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/Bwz9W0j/elec-8-1.jpg"
+    },
+    {
+        "name": "Tascam Closed Back Studio Headphones",
+        "resaleprice": "65",
+        "originalPrice": "98",
+        "yearofUsed": "2",
+        "category": "Computer",
+        "images":[{
+            "img1":"https://i.ibb.co/hY4Yn0y/m70x-2-228x228.jpg",
+            "img2":"https://i.ibb.co/qrJhK8X/ath-m30x-2-228x228.jpg",
+            "img3":"https://i.ibb.co/9YbBTTh/k240-studio-01-228x228.jpg",
+            "img4":"https://i.ibb.co/1zZH5P6/maono-au-mh601-studio-monitor-headphone-02-228x228.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/Nsgpgh7/elec-9-2.jpg"
+    },
+    {
+        "name": "Panasonic  In-Ear Stereo Earphones",
+        "resaleprice": "65",
+        "originalPrice": "98",
+        "yearofUsed": "2",
+        "category": "Computer",
+        "images":[{
+            "img1":"https://i.ibb.co/y47qgPR/hoco-m1-pro-original-series-earphones-for-lightning.jpg",
+            "img2":"https://i.ibb.co/z8HHZbX/hoco-m1-pro-original-series-earphones-for-type-c-package-black.jpg",
+            "img3":"https://i.ibb.co/tY0dk5d/301826488.jpg",
+            "img4":"https://i.ibb.co/FKRh98j/Anker-Soundcore-by-Liberty-4-Noise-Cancelling-Earbuds-A3953.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/NVTZJdD/elec-10-3.jpg"
+    },
+    {
+        "name": "NASA retro logo vintage look space",
+        "resaleprice": "65",
+        "originalPrice": "98",
+        "yearofUsed": "2",
+        "category": "clothes",
+        "images":[{
+            "img1":"https://i.ibb.co/mcS4sjL/7fbee0b1dea8c7504af269445aa6e7b0-300x400.jpg",
+            "img2":"https://i.ibb.co/pZG8FLW/MSW14189-2-300x400.jpg",
+            "img3":"https://i.ibb.co/whjH9Hr/MSW14107-2-300x400.jpg",
+            "img4":"https://i.ibb.co/n7sPGc4/MSW14105-2-300x400.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/v1TpQt3/fas-1.jpg"
+    },
+    {
+        "name": "The Fix Love Mini Top Handle Crossbody",
+        "resaleprice": "78",
+        "originalPrice": "88",
+        "yearofUsed": "2",
+        "category": "clothes",
+        "images":[{
+            "img1":"https://i.ibb.co/5F77nnw/pinko-Brown-Lady-Puff-Chevron-Love-Tote-Bag.webp",
+            "img2":"https://i.ibb.co/Y49LJJ6/pinko-Purple-Love-Bird-Mini-Top-Handle-Bag.webp",
+            "img3":"https://i.ibb.co/y0sfjCD/pinko-Pink-Lady-Puff-Chevron-Love-Tote-Bag.webp",
+            "img4":"https://i.ibb.co/JQ8bmXb/pinko-Black-Lady-Puff-Chevron-Love-Tote-Bag.webp"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/KxQyByT/fas-11.jpg"
+    },
+    {
+        "name": "Unisex Casual High Quality Canvas ",
+        "resaleprice": "82",
+        "originalPrice": "90",
+        "yearofUsed": "2",
+        "category": "clothes",
+        "images":[{
+            "img1":"https://i.ibb.co/nnDgTY5/pinko-Sky-Handbag.webp",
+            "img2":"https://i.ibb.co/N63W1HM/pinko-BLACK-Leather-Handbag.webp",
+            "img3":"https://i.ibb.co/vHQDJMj/pinko-Leather-Handbag.webp",
+            "img4":"https://i.ibb.co/477n8mn/pinko-Black-Mini-Love-Top-Handle-Bag.webp"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/j6Njxbs/fas-12-1.jpg"
+    },
+    {
+        "name": "Unisex Casual High Quality Canvas ",
+        "resaleprice": "82",
+        "originalPrice": "90",
+        "yearofUsed": "2",
+        "category": "clothes",
+        "images":[{
+            "img1":"https://i.ibb.co/nnDgTY5/pinko-Sky-Handbag.webp",
+            "img2":"https://i.ibb.co/N63W1HM/pinko-BLACK-Leather-Handbag.webp",
+            "img3":"https://i.ibb.co/vHQDJMj/pinko-Leather-Handbag.webp",
+            "img4":"https://i.ibb.co/477n8mn/pinko-Black-Mini-Love-Top-Handle-Bag.webp"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/j6Njxbs/fas-12-1.jpg"
+    },
+    {
+        "name": "Beauty without Cruelty Hair Spray",
+        "resaleprice": "14",
+        "originalPrice": "30",
+        "yearofUsed": "2",
+        "category": "cosmetics",
+        "images":[{
+            "img1":"https://i.ibb.co/m61Q2Rz/Vatika-Enriched-Black-Seed-Hair-Oil.webp",
+            "img2":"https://i.ibb.co/CWgNpV2/Untitled-1-jtse-cf.webp",
+            "img3":"https://i.ibb.co/s9F2GxG/Vatika-Naturals-Cactus-Enriched-Hair-Oil-300ml.webp",
+            "img4":"https://i.ibb.co/Smr5WPc/Vatika-Naturals-Cactus-Enriched-Hair-Oil-300ml-x9pr-ag.webp"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/svdzpm1/hea-8-3.jpg"
+    },
+    
+    {
+        "name": "Love Beauty And Planet Relaxing",
+        "resaleprice": "16",
+        "originalPrice": "32",
+        "yearofUsed": "2",
+        "category": "cosmetics",
+        "images":[{
+            "img1":"https://i.ibb.co/Swfvhg4/The-Body-Shop-Oils-Of-Life-Intensely-Revitalising-Facial-Oil-30ml-1.jpg",
+            "img2":"https://i.ibb.co/M2vHPSV/61e6bd85032124141-5700.jpg",
+            "img3":"https://i.ibb.co/hVfKzHS/41588m-z.jpg",
+            "img4":"https://i.ibb.co/9sVry0b/download.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/1Zk65Q2/hea-10-3.jpg"
+    },
+    {
+        "name": "DONA Crystalline Glucosamine Sulfat",
+        "resaleprice": "18",
+        "originalPrice": "22",
+        "yearofUsed": "2",
+        "category": "cosmetics",
+        "images":[{
+            "img1":"https://i.ibb.co/Vq1tCh8/61hm-Csg-Ve0-L-AC-UL320.jpg",
+            "img2":"https://i.ibb.co/Ks05JPC/41j-G8-Jd-Z25-L-AC-UL320.jpg",
+            "img3":"https://i.ibb.co/ZhK1cYc/61-Z-Lmlsu-EL-AC-UL320.jpg",
+            "img4":"https://i.ibb.co/G2PpSGV/41m0h-V49c4-L-AC-UL320.jpg"
+        }],
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praes",
+        "img": "https://i.ibb.co/QCsM4bx/hea-11-3.jpg"
+    }
+
+]
